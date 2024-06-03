@@ -2,6 +2,10 @@
 
 MinGen enhances your vanilla Minecraft world with vanilla plus structures. Each structure integrates with vanilla gameplay.
 
+# Download
+
+Modrinth: https://modrinth.com/datapack/mingen
+
 # Structures List
 
 - Cobledstone Ruins
