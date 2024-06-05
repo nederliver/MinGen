@@ -1,0 +1,15 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 104395004, 
+        "separation": 12,
+        "spacing": 42,
+        "spread_type": "triangular"
+    },
+    "structures": [
+        {
+            "structure": "mingen:abandoned_forest_house",
+            "weight": 1
+        }
+    ]
+}
