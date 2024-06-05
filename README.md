@@ -1,6 +1,6 @@
 # MinGen
 
-MinGen enhances your vanilla Minecraft world with vanilla plus structures. Each structure integrates with vanilla gameplay.
+MinGen enhance your world by adding more beautiful structures to it. Each structure integrates with the vanilla gameplay.
 
 # Download
 
@@ -8,7 +8,11 @@ Modrinth: https://modrinth.com/datapack/mingen
 
 # Structures List
 
-- Cobledstone Ruins
+- Structures List
+- Cobblestone Ruins
+- Dead Tree
+- Abandoned Forest House
+- Mangrove Well
 
 # Updates
 
