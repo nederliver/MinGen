@@ -1,6 +1,6 @@
 # MinGen
 
-MinGen enhance your world by adding more beautiful structures to it. Each structure integrates with the vanilla gameplay.        
+MinGen adds new structures to your world. I'm trying to keep vanilla look, but its not 100% vanilla-friendly
 More info [on the modrinth page](https://modrinth.com/datapack/mingen)
 
            
