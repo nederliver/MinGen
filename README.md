@@ -1,6 +1,7 @@
 # MinGen
 
-MinGen adds new structures to your world. I'm trying to keep vanilla look, but its not 100% vanilla-friendly
+MinGen adds new structures to your world. I'm trying to keep vanilla look, but its not 100% vanilla-friendly.
+
 More info [on the modrinth page](https://modrinth.com/datapack/mingen)
 
            
